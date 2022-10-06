@@ -11,7 +11,8 @@ def np_diag_2k(given_matrix):
 
     """ 
     # Получаем массив из элементов главной диагонали матрицы
-    matrix_main_diagonal = np.diagonal(given_matrix, offset=0) 
+    matrix_main_diagonal = np.diagonal(given_matrix, offset=0)
+    sum_even_elements = 0
     sum_even_elements = np.sum(matrix_main_diagonal[matrix_main_diagonal % 2 == 0])
     return sum_even_elements
 
