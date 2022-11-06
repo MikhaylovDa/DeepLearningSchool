@@ -11,7 +11,7 @@
 ## Продвинутый поток
 - [Домашнее задание по линейный моделям][lin_mod_link]
 - [Kaggle-соревнование][kaggle_link]
-- Домашнее задание по сверточным нейронным сетям (в разработке)
+- [Домашнее задание по сверточным нейронным сетям][dense_networks_link]
  
 
 [numpy_link]: https://github.com/MikhaylovDa/DeepLearningSchool/tree/main/basic/numpy_hw
@@ -21,3 +21,4 @@
 [linear_models_link]: https://github.com/MikhaylovDa/DeepLearningSchool/tree/main/basic/linear_models_and_optimization_methods_hw
 [lin_mod_link]: https://github.com/MikhaylovDa/DeepLearningSchool/tree/main/advanced/linear_models_and_optimization_methods
 [kaggle_link]: https://github.com/MikhaylovDa/DeepLearningSchool/tree/main/advanced/kaggle_competition
+[dense_networks_link]: https://github.com/MikhaylovDa/DeepLearningSchool/tree/main/advanced/dense_and_convolutional_nn
